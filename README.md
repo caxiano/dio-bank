@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FLASK RESTFUL API
 https://flask-restful.readthedocs.io/en/latest/
 
@@ -21,3 +22,6 @@ https://flask-migrate.readthedocs.io/en/latest/
 6 - Flask JWTManager Documetation
 https://flask-jwt-extended.readthedocs.io/en/stable/basic_usage.html
 
+=======
+# dio-bank
+>>>>>>> 3ca52a72bd08d1bdab5a34e8805b417ce34e3eb6
